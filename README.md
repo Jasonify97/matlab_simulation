@@ -3,7 +3,7 @@ Simulate a four-legged robot landing in various locations.(matlab)
 
 
 Horizontal maintenance on shaking terrain : 
-https://www.youtube.com/@user-qx5kc1kk8o
+https://www.youtube.com/watch?v=PB_aXckNSmM
 
 Landing on the 30 degree slope : 
 https://www.youtube.com/watch?v=yxH7mVo7oi4
