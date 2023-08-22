@@ -1,7 +1,7 @@
 # matlab_simulation
 Simulate a four-legged robot landing in various locations.(matlab)
+<img width="100%" src="https://github.com/tracer132/matlab_simulation/assets/98500133/218e40f5-f3da-4747-a77d-a56ffcb7332b"/>
 
-![image](https://github.com/tracer132/matlab_simulation/assets/98500133/218e40f5-f3da-4747-a77d-a56ffcb7332b)
 
 기존 고정 지지대 방식의 드론 랜딩기어를 변형하여 험지에서의 이/착륙뿐만 아니라 흔들리는 지형에서 드론의 안정적인 착륙 및 자세 유지를 할 수 있게끔 설계 목적을 가졌다. <br>
 2-Link 구조를 가지는 4개의 다리는 정/역기 구학 해석을 통해 착륙 및 수평 유지에 대한 모션컨트롤을 구현하였다. 각 다리에 2개의 서보모터를 부착하여
