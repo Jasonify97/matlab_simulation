@@ -1,6 +1,6 @@
 # matlab_simulation
 Simulate a four-legged robot landing in various locations.(matlab)
-<img width="100%" src="https://github.com/tracer132/matlab_simulation/assets/98500133/218e40f5-f3da-4747-a77d-a56ffcb7332b"/>
+<img width="70%" src="https://github.com/tracer132/matlab_simulation/assets/98500133/218e40f5-f3da-4747-a77d-a56ffcb7332b"/>
 
 
 기존 고정 지지대 방식의 드론 랜딩기어를 변형하여 험지에서의 이/착륙뿐만 아니라 흔들리는 지형에서 드론의 안정적인 착륙 및 자세 유지를 할 수 있게끔 설계 목적을 가졌다. <br>
