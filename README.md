@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=aYTKdovnkGM
 Landing on the stair : 
 https://www.youtube.com/watch?v=Gbsx1TrbFQU
 
-![Recoil](https://img.shields.io/badge/KT-f26b00?style=flat-square&logo=https://www.kt.com/favicon.ico)
+![Recoil](https://img.shields.io/badge/KT-f26b00?style=for-tje-badge&logo=https://www.kt.com/favicon.ico)
